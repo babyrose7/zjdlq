@@ -1,4 +1,5 @@
 {"domains":[{"domain":"www.vip66.co"},{"domain":"www.vip68.co"},{"domain":"www.vip18.co"}]}
-domainConfig1=www.vip66.co
-domainConfig2=www.vip68.co
-domainConfig3=www.vip18.co
+[线路列表]
+线路1=www.vip66.co
+线路2=www.vip68.co
+线路3=www.vip18.co
